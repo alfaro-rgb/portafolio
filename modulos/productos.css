@@ -1,0 +1,41 @@
+.producto {
+margin-top: 10px;
+}
+
+.producto img{
+width: 170px;
+height: auto;
+display: inline;
+display: inline-block;
+border: 1px solid rgb(194, 194, 194);
+border-radius: 3px;
+padding: 40px 20px;
+margin-top: 10px;
+}
+
+.Terror{
+background-color: #FADBE2;
+color: rgb(23, 2, 2);
+font-weight: 600;
+}
+
+
+.Accion{
+background-color: #EFD9D1;
+color: rgb(23, 2, 2);
+font-weight: 600;
+}
+
+
+.Battle{
+background-color: #FADBE2;
+color: rgb(23, 2, 2);
+font-weight: 600;
+}
+
+
+.Aventura{
+background-color: #EFD9D1;
+color: rgb(23, 2, 2);
+font-weight: 600;
+}
